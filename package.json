@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yuanzheng512/design-mode/issues"
   },
-  "homepage": "https://github.com/yuanzheng512/design-mode#readme"
+  "homepage": "https://github.com/yuanzheng512/design-mode#readme",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
 }
